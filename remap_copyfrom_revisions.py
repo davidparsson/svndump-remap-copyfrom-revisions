@@ -1,4 +1,12 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+__author__ = u"David Pärsson"
+__copyright__ = u"Copyright 2015, David Pärsson"
+__license__ = "MIT"
+__version__ = "1.0.0"
+__status__ = "Development"
+
 import re
 import sys
 import argparse
