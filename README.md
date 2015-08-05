@@ -1,5 +1,5 @@
 Usage
-=====
+-----
 
 This script modifies filtered Subversion dump files by replacing `Node-copyfrom-rev` revisions that are not in the dump file
 
@@ -13,5 +13,6 @@ First generate your filtered Subversion dump file, then run it though the script
 Finally import the resulting dump file into Perforce.
 
 License
-=======
+-------
+
 [MIT](LICENSE)
